@@ -1,0 +1,63 @@
+{
+  "mapping" : [ {
+    "srcFieldName" : "ActiveYN",
+    "srcDataType" : "String",
+    "standardFieldName" : "activeYn",
+    "standardDataType" : "boolean"
+  }, {
+    "srcFieldName" : "Description",
+    "srcDataType" : "String",
+    "standardFieldName" : "description",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "EndTime",
+    "srcDataType" : "String",
+    "standardFieldName" : "endTime",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "EntryOrder",
+    "srcDataType" : "String",
+    "standardFieldName" : "entryOrder",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "Listing_MUI",
+    "srcDataType" : "String",
+    "standardFieldName" : "listingMatrixUniqueId",
+    "standardDataType" : "long"
+  }, {
+    "srcFieldName" : "Matrix_Unique_ID",
+    "srcDataType" : "String",
+    "standardFieldName" : "matrixUniqueId",
+    "standardDataType" : "long"
+  }, {
+    "srcFieldName" : "MatrixModifiedDT",
+    "srcDataType" : "String",
+    "standardFieldName" : "matrixModifiedDate",
+    "standardDataType" : "Date"
+  }, {
+    "srcFieldName" : "MLS",
+    "srcDataType" : "String",
+    "standardFieldName" : "mlsNumber",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "OpenHouseDate",
+    "srcDataType" : "String",
+    "standardFieldName" : "openHouseDate",
+    "standardDataType" : "Date"
+  }, {
+    "srcFieldName" : "OpenHouseType",
+    "srcDataType" : "String",
+    "standardFieldName" : "openHouseType",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Refreshments",
+    "srcDataType" : "String",
+    "standardFieldName" : "refreshments",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StartTime",
+    "srcDataType" : "String",
+    "standardFieldName" : "startTime",
+    "standardDataType" : "int"
+  } ]
+}

@@ -1,0 +1,403 @@
+{
+  "mapping" : [ {
+    "srcFieldName" : "Amenities",
+    "srcDataType" : "String",
+    "standardFieldName" : "amenities",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "AssociationCommunityName",
+    "srcDataType" : "String",
+    "standardFieldName" : "associationCommunityName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "BathsFull",
+    "srcDataType" : "String",
+    "standardFieldName" : "bathsFull",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "BathsHalf",
+    "srcDataType" : "String",
+    "standardFieldName" : "bathsHalf",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "BathsTotal",
+    "srcDataType" : "String",
+    "standardFieldName" : "bathsTotal",
+    "standardDataType" : "double"
+  }, {
+    "srcFieldName" : "BedsTotal",
+    "srcDataType" : "String",
+    "standardFieldName" : "bedsTotal",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "BuildingName",
+    "srcDataType" : "String",
+    "standardFieldName" : "buildingName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "City",
+    "srcDataType" : "String",
+    "standardFieldName" : "city",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "CoListAgentFullName",
+    "srcDataType" : "String",
+    "standardFieldName" : "colistAgentFullName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "CoListAgentMLSID",
+    "srcDataType" : "String",
+    "standardFieldName" : "colistAgentMlsId",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "CoListOfficeMLSID",
+    "srcDataType" : "String",
+    "standardFieldName" : "colistOfficeMlsId",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "CoListOfficeName",
+    "srcDataType" : "String",
+    "standardFieldName" : "colistOfficeName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ConstructionMaterials",
+    "srcDataType" : "String",
+    "standardFieldName" : "constructionMaterials",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "DownPaymentResourceYN",
+    "srcDataType" : "String",
+    "standardFieldName" : "downPaymentResourceYn",
+    "standardDataType" : "boolean"
+  }, {
+    "srcFieldName" : "Easements",
+    "srcDataType" : "String",
+    "standardFieldName" : "easements",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ElementarySchool",
+    "srcDataType" : "String",
+    "standardFieldName" : "elementarySchool",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "FloodZone",
+    "srcDataType" : "String",
+    "standardFieldName" : "floodZone",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Flooring",
+    "srcDataType" : "String",
+    "standardFieldName" : "flooring",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Furnished",
+    "srcDataType" : "String",
+    "standardFieldName" : "furnished",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "HighSchool",
+    "srcDataType" : "String",
+    "standardFieldName" : "highSchool",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "LandTenure",
+    "srcDataType" : "String",
+    "standardFieldName" : "landTenure",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListAgentDirectWorkPhone",
+    "srcDataType" : "String",
+    "standardFieldName" : "listAgentDirectWorkPhone",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListAgentEmail",
+    "srcDataType" : "String",
+    "standardFieldName" : "listAgentEmail",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListAgentFullName",
+    "srcDataType" : "String",
+    "standardFieldName" : "listAgentFullName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListAgentMLSID",
+    "srcDataType" : "String",
+    "standardFieldName" : "listAgentMlsId",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListingContractDate",
+    "srcDataType" : "String",
+    "standardFieldName" : "listingContractDate",
+    "standardDataType" : "Date"
+  }, {
+    "srcFieldName" : "ListingService",
+    "srcDataType" : "String",
+    "standardFieldName" : "listingService",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListOfficeMLSID",
+    "srcDataType" : "String",
+    "standardFieldName" : "listOfficeMlsId",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListOfficeName",
+    "srcDataType" : "String",
+    "standardFieldName" : "listOfficeName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListOfficePhone",
+    "srcDataType" : "String",
+    "standardFieldName" : "listOfficePhone",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ListPrice",
+    "srcDataType" : "String",
+    "standardFieldName" : "listPrice",
+    "standardDataType" : "double"
+  }, {
+    "srcFieldName" : "LotFeatures",
+    "srcDataType" : "String",
+    "standardFieldName" : "lotFeatures",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "LotSizeArea",
+    "srcDataType" : "String",
+    "standardFieldName" : "lotSizeArea",
+    "standardDataType" : "double"
+  }, {
+    "srcFieldName" : "Matrix_Unique_ID",
+    "srcDataType" : "String",
+    "standardFieldName" : "matrixUniqueId",
+    "standardDataType" : "long"
+  }, {
+    "srcFieldName" : "MatrixModifiedDT",
+    "srcDataType" : "String",
+    "standardFieldName" : "matrixModifiedDate",
+    "standardDataType" : "Date"
+  }, {
+    "srcFieldName" : "MiddleOrJuniorSchool",
+    "srcDataType" : "String",
+    "standardFieldName" : "middleOrJuniorSchool",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "MLSAreaMajor",
+    "srcDataType" : "String",
+    "standardFieldName" : "mlsAreaMajor",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "MLSNumber",
+    "srcDataType" : "String",
+    "standardFieldName" : "mlsNumber",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Neighbourhood",
+    "srcDataType" : "String",
+    "standardFieldName" : "neighbourhood",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "NumberOfUnitsTotal",
+    "srcDataType" : "String",
+    "standardFieldName" : "numberOfUnitsTotal",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "ParkingFeatures",
+    "srcDataType" : "String",
+    "standardFieldName" : "parkingFeatures",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "ParkingTotal",
+    "srcDataType" : "String",
+    "standardFieldName" : "parkingTotal",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "PermitAddressInternetYN",
+    "srcDataType" : "String",
+    "standardFieldName" : "permitAddressInternetYn",
+    "standardDataType" : "boolean"
+  }, {
+    "srcFieldName" : "PhotoCount",
+    "srcDataType" : "String",
+    "standardFieldName" : "photoCount",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "PhotoModificationTimestamp",
+    "srcDataType" : "String",
+    "standardFieldName" : "photoModificationTimestamp",
+    "standardDataType" : "Date"
+  }, {
+    "srcFieldName" : "PostalCode",
+    "srcDataType" : "String",
+    "standardFieldName" : "postalCode",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PostalCodePlus4",
+    "srcDataType" : "String",
+    "standardFieldName" : "postalCodePlus4",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PropertyCondition",
+    "srcDataType" : "String",
+    "standardFieldName" : "propertyCondition",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PropertyFrontage",
+    "srcDataType" : "String",
+    "standardFieldName" : "propertyFrontage",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PropertySubType",
+    "srcDataType" : "String",
+    "standardFieldName" : "propertySubType",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PropertyType",
+    "srcDataType" : "String",
+    "standardFieldName" : "propertyType",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "PublicRemarks",
+    "srcDataType" : "String",
+    "standardFieldName" : "publicRemarks",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Sewer",
+    "srcDataType" : "String",
+    "standardFieldName" : "sewer",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "SQFTBuilding",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftBuilding",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "SQFTGarageCarport",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftGarageCarport",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "SQFTLanaiOpen",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftLanaiOpen",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "SQFTRoofedLiving",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftRoofedLiving",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "SQFTRoofedOther",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftRoofedOther",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "SqftTotal",
+    "srcDataType" : "String",
+    "standardFieldName" : "sqftTotal",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "StateOrProvince",
+    "srcDataType" : "String",
+    "standardFieldName" : "stateOrProvince",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Status",
+    "srcDataType" : "String",
+    "standardFieldName" : "status",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StoriesType",
+    "srcDataType" : "String",
+    "standardFieldName" : "storiesType",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StreetDirPrefix",
+    "srcDataType" : "String",
+    "standardFieldName" : "streetDirPrefix",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StreetDirSuffix",
+    "srcDataType" : "String",
+    "standardFieldName" : "streetDirSuffix",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StreetName",
+    "srcDataType" : "String",
+    "standardFieldName" : "streetName",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StreetNumber",
+    "srcDataType" : "String",
+    "standardFieldName" : "streetNumber",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "StreetSuffix",
+    "srcDataType" : "String",
+    "standardFieldName" : "streetSuffix",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "TMKCondoPropertyRegimeNumber",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkCondoPropertyRegimeNumber",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "TMKDivision",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkDivision",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "TMKParcel",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkParcel",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "TMKPLAT",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkPlat",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "TMKSection",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkSection",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "TMKZone",
+    "srcDataType" : "String",
+    "standardFieldName" : "tmkZone",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "Topography",
+    "srcDataType" : "String",
+    "standardFieldName" : "topography",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "UnitNumber",
+    "srcDataType" : "String",
+    "standardFieldName" : "unitNumber",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "Utilities",
+    "srcDataType" : "String",
+    "standardFieldName" : "utilities",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "View",
+    "srcDataType" : "String",
+    "standardFieldName" : "view",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "VirtualTourURLUnbranded",
+    "srcDataType" : "String",
+    "standardFieldName" : "virtualTourUrlUnbranded",
+    "standardDataType" : "String"
+  }, {
+    "srcFieldName" : "YearBuilt",
+    "srcDataType" : "String",
+    "standardFieldName" : "yearBuilt",
+    "standardDataType" : "int"
+  }, {
+    "srcFieldName" : "YearRemodeled",
+    "srcDataType" : "String",
+    "standardFieldName" : "yearRemodeled",
+    "standardDataType" : "int"
+  } ]
+}
